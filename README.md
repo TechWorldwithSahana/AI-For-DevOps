@@ -31,6 +31,7 @@ Learn how to use AI in DevOps workflows to automate tasks, improve efficiency, a
 ## 📚 Course Syllabus
 
 ### 🔹 Chapter 1: Introduction to AI in DevOps
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=XnoSXL_GrVY) · 📖 eBook — Coming Soon
 
 - What is DevOps — brief context setting
 - What is AI — simple definition
@@ -43,6 +44,7 @@ Learn how to use AI in DevOps workflows to automate tasks, improve efficiency, a
 ---
 
 ### 🔹 Chapter 2: AI Fundamentals (Quick Recap)
+📖 eBook — Coming Soon
 
 - What is AI
 - The AI family — ML, Deep Learning, Generative AI, LLMs (as a hierarchy)
