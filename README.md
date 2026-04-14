@@ -13,25 +13,24 @@
 
 ---
 
-## 🎯 Course Goal
+## 📚 Course Index
 
-Learn how to use AI in DevOps workflows to automate tasks, improve efficiency, and enhance system reliability.
-
----
-
-## 👥 Who is this Course For?
-
-- DevOps Engineers
-- Cloud Engineers
-- System Administrators
-- Developers interested in DevOps
+| # | Chapter | Topics | Notes |
+|---|---------|--------|-------|
+| 01 | [Introduction to AI in DevOps](#-chapter-1--introduction-to-ai-in-devops) | What is AI, DevOps context, CI/CD, IaC, Monitoring | Coming Soon |
+| 02 | [AI Fundamentals (Quick Recap)](#-chapter-2--ai-fundamentals-quick-recap) | ML, Deep Learning, Generative AI, LLMs, Practical mapping | Coming Soon |
 
 ---
 
-## 📚 Course Syllabus
+## 📘 Chapter 1 — Introduction to AI in DevOps
 
-### 🔹 Chapter 1: Introduction to AI in DevOps
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=XnoSXL_GrVY) · 📖 eBook — Coming Soon
+<div align="right">
+
+[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=XnoSXL_GrVY) [![eBook](https://img.shields.io/badge/Chapter_Notes-Coming_Soon-6C47FF?style=flat-square&logo=bookstack)]()
+
+</div>
+
+**Topics covered:**
 
 - What is DevOps — brief context setting
 - What is AI — simple definition
@@ -43,8 +42,15 @@ Learn how to use AI in DevOps workflows to automate tasks, improve efficiency, a
 
 ---
 
-### 🔹 Chapter 2: AI Fundamentals (Quick Recap)
-📖 eBook — Coming Soon
+## 📘 Chapter 2 — AI Fundamentals (Quick Recap)
+
+<div align="right">
+
+[![eBook](https://img.shields.io/badge/Chapter_Notes-Coming_Soon-6C47FF?style=flat-square&logo=bookstack)]()
+
+</div>
+
+**Topics covered:**
 
 - What is AI
 - The AI family — ML, Deep Learning, Generative AI, LLMs (as a hierarchy)
