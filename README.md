@@ -13,15 +13,6 @@
 
 ---
 
-## 📚 Course Index
-
-| # | Chapter | Topics | Notes |
-|---|---------|--------|-------|
-| 01 | [Introduction to AI in DevOps](#-chapter-1--introduction-to-ai-in-devops) | What is AI, DevOps context, CI/CD, IaC, Monitoring | Coming Soon |
-| 02 | [AI Fundamentals (Quick Recap)](#-chapter-2--ai-fundamentals-quick-recap) | ML, Deep Learning, Generative AI, LLMs, Practical mapping | Coming Soon |
-
----
-
 ## 📘 Chapter 1 — Introduction to AI in DevOps
 
 <div align="right">
