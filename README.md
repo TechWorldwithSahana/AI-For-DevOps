@@ -5,19 +5,16 @@
 ### Practical Course by TechWorld with Sahana
 
 [![YouTube](https://img.shields.io/badge/TechWorld_with_Sahana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWorldwithSahana)
-[![eBooks](https://img.shields.io/badge/eBooks-Coming_Soon-6C47FF?style=for-the-badge&logo=bookstack&logoColor=white)]()
 
 > If this helped you, drop a ⭐ — it helps others find this resource!
 
 </div>
 
----
-
 ## 📘 Chapter 1 — Introduction to AI in DevOps
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=XnoSXL_GrVY) [![eBook](https://img.shields.io/badge/Chapter_Notes-Coming_Soon-6C47FF?style=flat-square&logo=bookstack)]()
+[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=XnoSXL_GrVY&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6)
 
 </div>
 
@@ -37,7 +34,7 @@
 
 <div align="right">
 
-[![eBook](https://img.shields.io/badge/Chapter_Notes-Coming_Soon-6C47FF?style=flat-square&logo=bookstack)]()
+[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=orezp5XBcwA&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=2)
 
 </div>
 
@@ -52,6 +49,22 @@
 - How LLMs work — the "well-read colleague" mental model
 - Practical mapping — which AI type shows up where in DevOps
 - LLMs are not always right — use with engineering judgement
+
+---
+
+## 📘 Chapter 3 — AI for CI/CD Pipelines
+
+<div align="right">
+
+[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=312CihdcZZQ&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=3)
+
+</div>
+
+**Topics covered:**
+
+- Automating pipelines
+- Writing pipeline scripts using AI
+- Debugging CI/CD issues
 
 ---
 
