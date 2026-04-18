@@ -14,7 +14,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=XnoSXL_GrVY&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6)
+[![Watch On YouTube](https://img.shields.io/badge/Watch%20On%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XnoSXL_GrVY&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=orezp5XBcwA&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=2)
+[![Watch On YouTube](https://img.shields.io/badge/Watch%20On%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=orezp5XBcwA&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=2)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=312CihdcZZQ&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=3)
+[![Watch On YouTube](https://img.shields.io/badge/Watch%20On%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=312CihdcZZQ&list=PL8h_iS3fGq0KElVkIEkzoTp4w8Je6Gb_6&index=3)
 
 </div>
 
