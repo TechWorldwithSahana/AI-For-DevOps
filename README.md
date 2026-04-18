@@ -62,10 +62,12 @@
 
 **Topics covered:**
 
-- Automating pipelines
-- Writing pipeline scripts using AI
-- Debugging CI/CD issues
-
+- Introduction to AI in CI/CD
+- Automating Pipelines
+- Writing and Modifying Pipeline Scripts
+- Debugging CI/CD Issues
+- Creating the CD Pipeline
+- 
 ---
 
 <div align="center">
