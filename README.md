@@ -67,7 +67,6 @@
 - Writing and Modifying Pipeline Scripts
 - Debugging CI/CD Issues
 - Creating the CD Pipeline
-- 
 ---
 
 <div align="center">
